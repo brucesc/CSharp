@@ -1,0 +1,7 @@
+C:\repos\C#\csdemos\Core Concepts\Core Concepts\bin\Debug\Core Concepts.exe.config
+C:\repos\C#\csdemos\Core Concepts\Core Concepts\bin\Debug\Core Concepts.exe
+C:\repos\C#\csdemos\Core Concepts\Core Concepts\bin\Debug\Core Concepts.pdb
+C:\repos\C#\csdemos\Core Concepts\Core Concepts\obj\Debug\Core Concepts.csprojResolveAssemblyReference.cache
+C:\repos\C#\csdemos\Core Concepts\Core Concepts\obj\Debug\Core Concepts.csproj.CoreCompileInputs.cache
+C:\repos\C#\csdemos\Core Concepts\Core Concepts\obj\Debug\Core Concepts.exe
+C:\repos\C#\csdemos\Core Concepts\Core Concepts\obj\Debug\Core Concepts.pdb

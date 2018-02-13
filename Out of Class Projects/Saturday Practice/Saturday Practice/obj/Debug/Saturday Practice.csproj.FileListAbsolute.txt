@@ -1,0 +1,7 @@
+C:\repos\C#\Out of Class Projects\Saturday Practice\Saturday Practice\bin\Debug\Saturday Practice.exe.config
+C:\repos\C#\Out of Class Projects\Saturday Practice\Saturday Practice\bin\Debug\Saturday Practice.exe
+C:\repos\C#\Out of Class Projects\Saturday Practice\Saturday Practice\bin\Debug\Saturday Practice.pdb
+C:\repos\C#\Out of Class Projects\Saturday Practice\Saturday Practice\obj\Debug\Saturday Practice.csprojResolveAssemblyReference.cache
+C:\repos\C#\Out of Class Projects\Saturday Practice\Saturday Practice\obj\Debug\Saturday Practice.csproj.CoreCompileInputs.cache
+C:\repos\C#\Out of Class Projects\Saturday Practice\Saturday Practice\obj\Debug\Saturday Practice.exe
+C:\repos\C#\Out of Class Projects\Saturday Practice\Saturday Practice\obj\Debug\Saturday Practice.pdb

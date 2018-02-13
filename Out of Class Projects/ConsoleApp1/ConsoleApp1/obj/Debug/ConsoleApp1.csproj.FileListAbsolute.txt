@@ -1,0 +1,6 @@
+C:\repos\C#\Out of Class Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\repos\C#\Out of Class Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\repos\C#\Out of Class Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\repos\C#\Out of Class Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\repos\C#\Out of Class Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\repos\C#\Out of Class Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

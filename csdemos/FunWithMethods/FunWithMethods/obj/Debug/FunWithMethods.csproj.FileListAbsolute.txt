@@ -1,0 +1,6 @@
+C:\repos\C#\csdemos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csproj.CoreCompileInputs.cache
+C:\repos\C#\csdemos\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+C:\repos\C#\csdemos\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+C:\repos\C#\csdemos\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb
+C:\repos\C#\csdemos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+C:\repos\C#\csdemos\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb

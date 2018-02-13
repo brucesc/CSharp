@@ -1,0 +1,7 @@
+C:\repos\C#\csdemos\Chapter 5\Chapter 5\bin\Debug\Chapter 5.exe.config
+C:\repos\C#\csdemos\Chapter 5\Chapter 5\bin\Debug\Chapter 5.exe
+C:\repos\C#\csdemos\Chapter 5\Chapter 5\bin\Debug\Chapter 5.pdb
+C:\repos\C#\csdemos\Chapter 5\Chapter 5\obj\Debug\Chapter 5.csprojResolveAssemblyReference.cache
+C:\repos\C#\csdemos\Chapter 5\Chapter 5\obj\Debug\Chapter 5.csproj.CoreCompileInputs.cache
+C:\repos\C#\csdemos\Chapter 5\Chapter 5\obj\Debug\Chapter 5.exe
+C:\repos\C#\csdemos\Chapter 5\Chapter 5\obj\Debug\Chapter 5.pdb

@@ -1,0 +1,7 @@
+C:\repos\C#\csdemos\Thursday\Thursday\obj\Debug\Thursday.csproj.CoreCompileInputs.cache
+C:\repos\C#\csdemos\Thursday\Thursday\bin\Debug\Thursday.exe.config
+C:\repos\C#\csdemos\Thursday\Thursday\bin\Debug\Thursday.exe
+C:\repos\C#\csdemos\Thursday\Thursday\bin\Debug\Thursday.pdb
+C:\repos\C#\csdemos\Thursday\Thursday\obj\Debug\Thursday.exe
+C:\repos\C#\csdemos\Thursday\Thursday\obj\Debug\Thursday.pdb
+C:\repos\C#\csdemos\Thursday\Thursday\obj\Debug\Thursday.csprojResolveAssemblyReference.cache

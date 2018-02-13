@@ -1,0 +1,7 @@
+C:\repos\C#\csdemos\Monday 2-12-2018\Monday 2-12-2018\bin\Debug\Monday 2-12-2018.exe.config
+C:\repos\C#\csdemos\Monday 2-12-2018\Monday 2-12-2018\bin\Debug\Monday 2-12-2018.exe
+C:\repos\C#\csdemos\Monday 2-12-2018\Monday 2-12-2018\bin\Debug\Monday 2-12-2018.pdb
+C:\repos\C#\csdemos\Monday 2-12-2018\Monday 2-12-2018\obj\Debug\Monday 2-12-2018.csprojResolveAssemblyReference.cache
+C:\repos\C#\csdemos\Monday 2-12-2018\Monday 2-12-2018\obj\Debug\Monday 2-12-2018.csproj.CoreCompileInputs.cache
+C:\repos\C#\csdemos\Monday 2-12-2018\Monday 2-12-2018\obj\Debug\Monday 2-12-2018.exe
+C:\repos\C#\csdemos\Monday 2-12-2018\Monday 2-12-2018\obj\Debug\Monday 2-12-2018.pdb
