@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalSounds", "AnimalSounds\AnimalSounds.csproj", "{C4B26A69-A523-4C8A-B6C5-F56716D132FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalSoundsLibrary", "AnimalSoundsLibrary\AnimalSoundsLibrary.csproj", "{9F6F1C96-F4F4-4321-A28D-8EB735C6A431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4B26A69-A523-4C8A-B6C5-F56716D132FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B26A69-A523-4C8A-B6C5-F56716D132FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B26A69-A523-4C8A-B6C5-F56716D132FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B26A69-A523-4C8A-B6C5-F56716D132FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6F1C96-F4F4-4321-A28D-8EB735C6A431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6F1C96-F4F4-4321-A28D-8EB735C6A431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6F1C96-F4F4-4321-A28D-8EB735C6A431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6F1C96-F4F4-4321-A28D-8EB735C6A431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F29A03-5DCB-4AF2-83B0-A53CADA64126}
+	EndGlobalSection
+EndGlobal
